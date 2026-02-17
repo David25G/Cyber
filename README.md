@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A new Junior GRC Analist from Spain</h3>
 
+<p> 
+
+# Cybersecurity professional with a focus on Governance, Risk and Compliance (GRC). 
+Interested in technology risk management, regulatory compliance, and information security governance in enterprise environments.
+
+## 🛡️ Areas of Interest
+- Information Security Risk Management
+- ISO 27001 & Information Security Management Systems (ISMS)
+- Incident Response (NIST framework)
+- Vulnerability Assessment
+- Business Continuity & Data Protection
+
+## 💼 Featured Project
+Security analysis and recovery of a compromised Linux server, including:
+- Forensic investigation of the incident
+- Identification of the attack vector
+- Risk assessment and control implementation
+- Development of an Incident Response Plan
+- Design of an ISMS aligned with ISO 27001
+
+## 🎯 Career Objective
+To develop professionally in cybersecurity consulting, particularly in Governance, Risk and Compliance, contributing a technical and business-oriented perspective to information security.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/david-garcía-valverde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-garcía-valverde" height="30" width="40" /></a>
